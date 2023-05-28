@@ -19,7 +19,7 @@ function incriptar() {
       }
       else{
         imagen.src = "/image/inspeccion.jpg";
-        tituloMensaje.textContent = "Ningun ,emsaje se  a encontrado"
+        tituloMensaje.textContent = "Ningun ,mensaje se  a encontrado"
         parrafo.textContent = "Ingresa el texto que desa encriptar o desencriptar"
         alert("debes de ingresar un texto")
       }
